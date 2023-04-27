@@ -1,4 +1,3 @@
-# Pantry-Squirrel
 A website created to return recipes based on the ingredients you have in your pantry.
 
 Created By Mickee (Michaela) Young, Trey Crumrine, Adison Reddy, Ibraheem Omar, Jo Scar.
